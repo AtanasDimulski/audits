@@ -1,3 +1,0 @@
-# Solo Audit Reports
-
-Coming soon...

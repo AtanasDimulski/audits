@@ -1,3 +1,0 @@
-# Dyad Report
-
-Report coming soon...

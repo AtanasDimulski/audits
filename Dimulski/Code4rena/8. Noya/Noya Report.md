@@ -1,3 +1,0 @@
-# Noya Report
-
-Report coming soon...

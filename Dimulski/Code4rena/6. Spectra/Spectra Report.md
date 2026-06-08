@@ -1,3 +1,0 @@
-# Spectra Report
-
-Report coming soon...

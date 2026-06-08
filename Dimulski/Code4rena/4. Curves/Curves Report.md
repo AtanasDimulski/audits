@@ -1,3 +1,0 @@
-# Curves Report
-
-Report coming soon...
