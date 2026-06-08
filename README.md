@@ -1,80 +1,86 @@
 # About Dimulski
-
-Hi there 👋, Dimulski here, an independent blockchain security researcher currently active in audit contests on platforms such as Code4rena, Sherlock, and Codehawks. Here, you can see some of my past findings and contest results.
- - Code4rena Profile: [dimulski](https://code4rena.com/@dimulski)
- - Sherlock Profile: [dimulski](https://audits.sherlock.xyz/watson/dimulski)
- - CodeHawks Profile: [dimulski](https://www.codehawks.com/profile/clk4159y3002smb089da6c13f)
+ 
+EVM smart contract security researcher with 3+ years of experience. Lead Security Watson on Sherlock · #13 all-time leaderboard. 2x 1st place. 250+ High/Medium findings across competitive audits and private engagements. 30+ private engagements via Halborn, Hacken, CD Security, and PAG. Available for private audits — contact below.
+ 
+🌐 Website: [dimulski.com](https://dimulski.com)
+ 
+- Sherlock Profile: [dimulski](https://audits.sherlock.xyz/watson/dimulski)
 ## Contact Information
-I am always looking for new opportunities be it a job opening, private audit/security review, or simply for collaborations. Feel free to reach out via:
-
-  - Twitter: [@dimulski](https://twitter.com/dimulskiatana)
-  - Telegram: [@dimulski](https://t.me/dimulski)
-  - Linkedin: [Atanas Dimulski](https://www.linkedin.com/in/atanas-dimulski-9bb628195/)
-  - Email: [dimulskiatanas@gmail.com](dimulskiatanas@gmail.com)
-
-# Summary - Dimulski
-| Overall | High risk | Medium risk |
-|:--:|:--:|:--:|
-| 74 High/Medium | 42 High | 33 Medium | 
-
+ 
+Feel free to reach out for private audits, security reviews, or collaborations:
+ 
+- Twitter: [@dimulskiatanas](https://twitter.com/dimulskiatanas)
+- Telegram: [@dimulski](https://t.me/dimulski)
+- Email: [dimulskiatanas@gmail.com](mailto:dimulskiatanas@gmail.com)
+---
+ 
+# Summary
+ 
+| Total H/M (public) | High risk | Medium risk | Private engagements |
+|:--:|:--:|:--:|:--:|
+| 146 | 73 | 73 | 250+ including private work |
+ 
+---
+ 
 ## Private Audits
-| Protocol | High risk | Medium risk | Report |
-|:--:|:--:|:--:|:--:|
-| [Vaultody](https://vaultody.com/?utm_source=Google_Ads&utm_medium=SearchAd_jun&utm_campaign=rival_terms&gclid=Cj0KCQjwrp-3BhDgARIsAEWJ6Swt-fN6yv5OaVKGIAnylmj9oks4gDMiiOkIXVPve9Q2aSuG6r-lUWsaAtBsEALw_wcB) | 0 | 1 | [Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Solo%20Audits/VaultodyWalletFactory.pdf) |
-
-## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
-| Contest | High risk | Medium risk | Ranking |
-|:--:|:--:|:--:|:--:|
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 4 | 0 | - |
-| [The Standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl) | 3 | 0 | 🥇 |
-
-## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
-| Contest | High risk | Medium risk | Ranking |
-|:--:|:--:|:--:|:--:|
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | 1 | 0 | - |
-| [NextGen](https://code4rena.com/contests/2023-10-nextgen#top) | 1 | 2 | 11 |
-| [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | 0 | 1 | - |
-| [Curves](https://code4rena.com/audits/2024-01-curves#top) | 3 | 4 | - |
-| [AiArena](https://code4rena.com/audits/2024-02-ai-arena#top) | 5 | 1 | - |
-| [Spectra](https://code4rena.com/audits/2024-02-spectra#top) | 0 | 1 | 14 |
-| [Dyad](https://code4rena.com/audits/2024-04-dyad#top) | 5 | 3 | 12 |
-| [Noya](https://code4rena.com/audits/2024-04-noya#top) | 2 | 7 | - |
-| [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | - | 1 | - |
-| [Munchables](https://code4rena.com/audits/2024-07-munchables) | 4 | 1 | 4 |
-| [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | 3 | 6 | 20 |
-
-## <img src="https://docs.sherlock.xyz/~gitbook/image?url=https%3A%2F%2F1839706563-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FIULvDRunHtCHQJQoTsGo%252Ficon%252FQ7yJtYWzi1W6Rokd2SiV%252Fwhitesherlocklogo.png%3Falt%3Dmedia%26token%3D93a94252-4ec4-4971-b345-d2aaaab76f85&width=32&dpr=2&quality=100&sign=a026df8d&sv=1" width=33 height=30> Sherlock
-| Contest | High risk | Medium risk | Ranking | 
-|:--:|:--:|:--:|:--:|
-| [Hubble Exchange](https://audits.sherlock.xyz/contests/72) | 0 | 1 | - |
-| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | 1 | 0 | 9 |
-| [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | 1 | 0 | 7 |
-| [Axis Finance](https://audits.sherlock.xyz/contests/206) | 2 | 1 | 6 |
-| [Zivoe](https://audits.sherlock.xyz/contests/280) | 4 | 1 | - |
-| [MagicSea](https://audits.sherlock.xyz/contests/437?filter=results) | 3 | 2 | - |
-| [Winnables Raffles](https://audits.sherlock.xyz/contests/516?filter=questions) | - | - | - |
-| [Cork Protocol](https://audits.sherlock.xyz/contests/506?filter=questions) | - | - | - |
-| [Flayer](https://audits.sherlock.xyz/contests/468?filter=questions) | - | - | - |
-
-# Summary - Grey Hawk Reach 
-| Overall | High risk | Medium risk |
-|:--:|:--:|:--:|
-| 18 High/Medium | 12 High | 6 Medium |  
-
-## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
-
-| Contest | High risk | Medium risk | Ranking | 
-|:--:|:--:|:--:|:--:|
-| [PoolTogether](https://code4rena.com/contests/2023-07-pooltogether#top) | 2 | 0 | - |
-| [Tangible Caviar](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 5 | 2 | - |
-| [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 2 | 0 | - |
-| [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02#top) | 0 | 2 | - |
-| [The Wildcat Protocol](https://code4rena.com/contests/2023-10-the-wildcat-protocol#top) | 1 | 1 | - |
-| [Kelp DAO rsETH](https://code4rena.com/contests/2023-11-kelp-dao-rseth#top) | 2 | 0 | - |
-
-## <img src="https://docs.sherlock.xyz/~gitbook/image?url=https%3A%2F%2F1839706563-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FIULvDRunHtCHQJQoTsGo%252Ficon%252FQ7yJtYWzi1W6Rokd2SiV%252Fwhitesherlocklogo.png%3Falt%3Dmedia%26token%3D93a94252-4ec4-4971-b345-d2aaaab76f85&width=32&dpr=2&quality=100&sign=a026df8d&sv=1" width=33 height=30> Sherlock
-| Contest | High risk | Medium risk | Ranking |
-|:--:|:--:|:--:|:--:|
-| [Tokensoft](https://audits.sherlock.xyz/contests/100) | 0 | 1 | - |
-
-
+ 
+| Protocol | Scope | Critical | High | Medium | Low | Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [eSIM Wallet](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf) | Smart Contract Wallet / ERC-4337 / Account Abstraction | 2 | 2 | 2 | 4 | [CD Security](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf) |
+| [Vyper Boost](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf) | DeFi / Token / UniswapV3 | 0 | 0 | 3 | 4 | [CD Security](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf) |
+| [Vaultody](https://vaultody.com) | Token / Vesting / DAO | 0 | 0 | 1 | 4 | [Solo Report](https://github.com/AtanasDimulski/Portfolio/blob/main/Solo%20Audits/VaultodyWalletFactory.pdf) |
+| 30+ engagements — Halborn · Hacken · PAG | DeFi · Bridges · Token infrastructure | — | — | — | — | NDA · References available on request |
+ 
+---
+ 
+## Competitive Audits
+ 
+### 🥇 1st Place
+ 
+| Contest | Platform | Date | High risk | Medium risk |
+|:--:|:--:|:--:|:--:|:--:|
+| [Summer.fi - Governance V2](https://audits.sherlock.xyz/contests/1176) | Sherlock | Sep '25 | 0 | 4 |
+| [The Standard](https://codehawks.cyfrin.io/contests/clql6lvyu0001mnje1xpqcuvl) | CodeHawks | Dec '23 | 3 | 0 |
+ 
+### 🥈 2nd Place
+ 
+| Contest | Platform | Date | High risk | Medium risk |
+|:--:|:--:|:--:|:--:|:--:|
+| [Cork Protocol](https://audits.sherlock.xyz/contests/506) | Sherlock | Aug '24 | 6 | 4 |
+ 
+### Top 10 Finishes
+ 
+| Contest | Platform | Date | High risk | Medium risk | Ranking |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | Code4rena | Nov '25 | 1 | 1 | #8 |
+| [GTE Perps and Launchpad](https://code4rena.com/audits/2025-08-gte-perps-and-launchpad) | Code4rena | Aug '25 | 6 | 4 | #6 |
+| [Morpheus](https://code4rena.com/audits/2025-08-morpheus) | Code4rena | Aug '25 | 0 | 1 | #10 |
+| [Debita Finance V3](https://audits.sherlock.xyz/contests/627) | Sherlock | Nov '24 | 3 | 11 | #4 |
+| [Munchables](https://code4rena.com/audits/2024-07-munchables) | Code4rena | Jul '24 | 4 | 1 | #4 |
+| [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | Sherlock | Aug '24 | 3 | 3 | #6 |
+| [Axis Finance](https://audits.sherlock.xyz/contests/206) | Sherlock | Mar '24 | 2 | 1 | #6 |
+| [LooksRare YOLO](https://audits.sherlock.xyz/contests/163) | Sherlock | Jan '24 | 1 | 0 | #7 |
+| [Nouns Builder](https://audits.sherlock.xyz/contests/111) | Sherlock | Nov '23 | 1 | 0 | #9 |
+| [NextGen](https://code4rena.com/audits/2023-10-nextgen) | Code4rena | Oct '23 | 1 | 2 | #11 |
+ 
+### Other Notable Contests
+ 
+| Contest | Platform | Date | High risk | Medium risk |
+|:--:|:--:|:--:|:--:|:--:|
+| [stakeup - bloomv2](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Cantina | Oct '24 | 4 | 1 |
+| [Flayer](https://audits.sherlock.xyz/contests/468) | Sherlock | Sep '24 | 2 | 1 |
+| [Boost Core Incentive Protocol](https://audits.sherlock.xyz/contests/426) | Sherlock | Sep '24 | 1 | 2 |
+| [Index Fun Order Book](https://audits.sherlock.xyz/contests/1197) | Sherlock | Oct '25 | 1 | 1 |
+| [Mellow Flexible Vaults](https://audits.sherlock.xyz/contests/964) | Sherlock | Jul '25 | 1 | 3 |
+| [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | Code4rena | Jul '24 | 3 | 6 |
+| [MagicSea](https://audits.sherlock.xyz/contests/437) | Sherlock | Jun '24 | 3 | 2 |
+| [DYAD](https://code4rena.com/audits/2024-04-dyad) | Code4rena | Apr '24 | 5 | 3 |
+| [NOYA](https://code4rena.com/audits/2024-04-noya) | Code4rena | Apr '24 | 2 | 7 |
+| [Zivoe](https://audits.sherlock.xyz/contests/280) | Sherlock | Mar '24 | 4 | 1 |
+| [AI Arena](https://code4rena.com/audits/2024-02-ai-arena) | Code4rena | Feb '24 | 5 | 1 |
+| [Curves](https://code4rena.com/audits/2024-01-curves) | Code4rena | Jan '24 | 3 | 4 |
+| [Spectra](https://code4rena.com/audits/2024-02-spectra) | Code4rena | Feb '24 | 0 | 1 |
+ 
+---
+ 
+*Full contest history available on [Sherlock](https://audits.sherlock.xyz/watson/dimulski)*
