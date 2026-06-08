@@ -1,6 +1,6 @@
 # About Dimulski
  
-EVM smart contract security researcher with 3+ years of experience. Lead Security Watson on Sherlock · #13 all-time leaderboard. 2x 1st place. 250+ High/Medium findings across competitive audits and private engagements. 30+ private engagements via Halborn, Hacken, CD Security, and PAG. Available for private audits — contact below.
+EVM smart contract security researcher with 3+ years of experience. Lead Security Watson on Sherlock · #13 all-time leaderboard. 2x 1st place. 300+ High/Medium findings across competitive audits and private engagements. 30+ private engagements via Halborn, Hacken, CD Security, and PAG. Available for private audits — contact below.
  
 🌐 Website: [dimulski.com](https://dimulski.com)
  
@@ -18,7 +18,7 @@ Feel free to reach out for private audits, security reviews, or collaborations:
  
 | Total H/M (public) | High risk | Medium risk | Private engagements |
 |:--:|:--:|:--:|:--:|
-| 146 | 73 | 73 | 250+ including private work |
+| 146 | 73 | 73 | 300+ including private work |
  
 ---
  
