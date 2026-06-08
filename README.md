@@ -28,7 +28,7 @@ Feel free to reach out for private audits, security reviews, or collaborations:
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [eSIM Wallet](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf) | Smart Contract Wallet / ERC-4337 / Account Abstraction | 2 | 2 | 2 | 4 | [CD Security](https://github.com/CDSecurity/audits/blob/main/audit%20reports/eSIM%20-%20report.pdf) |
 | [Vyper Boost](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf) | DeFi / Token / UniswapV3 | 0 | 0 | 3 | 4 | [CD Security](https://github.com/CDSecurity/audits/blob/main/audit%20reports/Vyper-Boost-report.pdf) |
-| [Vaultody](https://vaultody.com) | Token / Vesting / DAO | 0 | 0 | 1 | 4 | [Solo Report](https://github.com/AtanasDimulski/audits/blob/main/private-audits/VaultodyWalletFactory.pdf) |
+| [Vaultody](https://vaultody.com) | Smart Contract Wallet / Smart Contract Wallet Factory | 0 | 0 | 1 | 4 | [Solo Report](https://github.com/AtanasDimulski/audits/blob/main/private-audits/VaultodyWalletFactory.pdf) |
 | 30+ engagements — Halborn · Hacken · PAG | DeFi · Bridges · Token infrastructure | — | — | — | — | NDA · References available on request |
  
 ---
